@@ -1,13 +1,14 @@
-# Welcome to my Data Analytics Portfolio!
+# Welcome to my Data Science/ Data Analytics Portfolio!
 This repository showcases the various projects I've worked on, highlighting my proficiency in data analysis, visualization, and reporting. My skill set includes advanced knowledge of Excel, Power BI, and SQL, which I have used to derive insights, build dashboards, and create comprehensive reports.
 
 ## About Me
-I am a data analyst with a passion for turning raw data into actionable insights. With a strong foundation in Excel, Power BI, and SQL, I excel at uncovering patterns, trends, and correlations that drive business decisions. My experience spans across various industries, and I am continuously seeking opportunities to learn and grow in the field of data analytics.
+I am a data analyst with a passion for turning raw data into actionable insights. With a strong foundation in Excel, Power BI, and SQL, and python. I excel at uncovering patterns, trends, and correlations that drive business decisions. My experience spans across various industries, and I am continuously seeking opportunities to learn and grow in the field of data analytics.
 
 ## Tools & Technologies
-- **Excel**: Advanced data manipulation, pivot tables, VLOOKUPs, INDEX/MATCH, data visualization, and automation with VBA.
+- **Excel**: Data manipulation, pivot tables, VLOOKUPs, INDEX/MATCH, data visualization.
 - **Power BI**: Interactive dashboard creation, data modeling, DAX functions, and report sharing.
 - **SQL**: Query writing, data extraction, transformation, and aggregation from relational databases.
+- **Python: For Advance data Manipulation.
 
 ## Projects
 ### Project 1: Sales Analysis Dashboard
